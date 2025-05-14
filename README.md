@@ -33,10 +33,3 @@ The project uses a single neuron for binary classification. The `Neuron` class i
 
 *   Excel Asaph
 *   Christain Iradukunda
-
-## Future Work
-
-*   Implement the forward propagation and backward propagation steps in the `Neuron` class.
-*   Add training functionality to update weights and bias.
-*   Evaluate the model's performance.
-*   Experiment with different model architectures or hyperparameters.
